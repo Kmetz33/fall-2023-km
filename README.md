@@ -1,7 +1,7 @@
 # lab-2-fall-2023-KM
 👋 Hi, this is Kevvin Metz.
 
-<a super_blue_moon.html> the </a>
+super_blue_moon.html
   - Lab Engagement #2: Creating and HTML Document
 
 super_blue_moon_2.html
